@@ -15,8 +15,8 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "Kyongsu"
 title_separator          : "-"
 name                     : "kyongsu"
 description              : "An amazing website."
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kyongsu Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Web Developer"
+  location         : "Seoul, Republic of Korea"
+  email            : "rudtnrns@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
